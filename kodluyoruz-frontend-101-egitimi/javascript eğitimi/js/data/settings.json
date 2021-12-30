@@ -1,0 +1,11 @@
+{ 
+    "userName": "fakeUser",
+    "password": 1234,
+    "serverIP": "127.0.0.1",
+    "serverName": "kodluyoruz.org",
+    "isAuth": true,
+    "IDs": [1, 2, 3, 4, 5]
+}
+
+//Burada key yani özellik "" ile gösterilir.Degerler normalde tanimladigimiz gibi
+//userName şeklinde yok.
